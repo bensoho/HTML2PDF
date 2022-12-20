@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="734331d3-2594-442f-b250-2159e4400b45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/openpdf/Html2PdfUsingOpenHtml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/SimSun.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/htmlforopenpdf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="734331d3-2594-442f-b250-2159e4400b45" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,8 +73,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671544551622</updated>
-      <workItem from="1671544552903" duration="3228000" />
+      <workItem from="1671544552903" duration="3538000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1671580303353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671580303353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1671580458738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671580458738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1671580462714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671580462714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
